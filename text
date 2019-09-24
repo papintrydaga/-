@@ -1,0 +1,13 @@
+  
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Повар" as Повар {
+ Сковородка, лопаточка
+Омлет Приготовить затрак (Яйца, молоко, масло, колбаска, Рецепт омлета)
+}
+hide circle
+@enduml
