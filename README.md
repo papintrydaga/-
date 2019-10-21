@@ -21,6 +21,14 @@ IDEF0-диаграмма по приготовлению завтрака
 
 ## Лабораторная 2
 
+Новая диаграмма
+
+![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/22.jpg)
+
+Декомпозиция блоков
+
+![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/12jpg.jpg)
+
 ## Лабораторная 3
 
 ## Лабораторная 4
