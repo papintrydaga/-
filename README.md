@@ -29,6 +29,14 @@ IDEF0-диаграмма по изготовлению деталей
 
 ![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/12jpg.jpg)
 
+dfd диаграмма 
+
+![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/Снимок%20экрана%202019-10-22%20в%2011.40.25.png)
+
+диаграмма прецендентов
+
+![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/Снимок%20экрана%202019-10-22%20в%2011.40.25.png)
+
 ## Лабораторная 3
 
 ## Лабораторная 4
