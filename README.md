@@ -5,19 +5,19 @@
 ## Лабораторная 1
 
 
-IDEF0-диаграмма по приготовлению завтрака
+IDEF0-диаграмма по изготовлению деталей
 
-![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/model.png)
+![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/Снимок%20экрана%202019-10-22%20в%2010.44.38.png)
 
-Повар сковородкой и лопаточкой используя рецепт омлета имея яйца, молоко, масло и колбаску готовит затрак и получает омлет
+Рабочий используя инструмент и имея материал в течение рабочего процесса создает партию деталей
 
 Диаграмма классов
 
-![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/JP0zJiCm7CNd-XH_TGA9GvHo26OhiMXKDqPsAWQ4539quWGCV9m0KwWeAGfNUBuHBuaG3DRVxyF-MPw5IljglR8gB8loKdkzaipg4EHQJUOwMrvujoxpCsUTb_D5KHarEVNUNOtEtBB2elEvyV-j6pNUCiKZEcmHKpqL7UHF4Y1uHZleBjMSxrHHuG5VE62N6hRfx_76l1bw-zIaEy478h.png)
+![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/Снимок%20экрана%202019-10-22%20в%2010.40.43.png)
 
 Диаграмма прецедентов
 
-![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/fL7BIiD055rtlkBIbO85Fq2ahUj2Tgw7P6n3qunCfhYmGeo82_q2D-BARQYDXahRNxZpHvuyAjsx2FVEUPoSIVg9bSREPv58fc5yBOsSaVIjDdGhEaFfJyT6p-FWGaU0BYUXLQ8pC4RVDCWmWWH2RG9b3g6xWxnvedoPg7ydHkhAajLaml74KX0QvTjGnwBfwvsIJAZB7rpm3szvYRdkjk.png)
+![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/Снимок%20экрана%202019-10-22%20в%2010.43.52.png)
 
 ## Лабораторная 2
 
