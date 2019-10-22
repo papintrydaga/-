@@ -31,7 +31,7 @@ IDEF0-диаграмма по изготовлению деталей
 
 dfd диаграмма 
 
-![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/Снимок%20экрана%202019-10-22%20в%2011.40.25.png)
+![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/Снимок%20экрана%202019-10-22%20в%2011.44.43.png)
 
 диаграмма прецендентов
 
