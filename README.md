@@ -39,6 +39,18 @@ dfd диаграмма
 
 ## Лабораторная 3
 
+DFD
+
+![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/Снимок%20экрана%202019-10-22%20в%2011.44.43.png)
+
+Диаграмма последовательности
+
+![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/Снимок%20экрана%202019-11-06%20в%2014.21.25.png)
+
+Диаграмма классов(ERD)
+
+![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/Снимок%20экрана%202019-11-06%20в%2014.29.21.png)
+
 ## Лабораторная 4
 
 ## Лабораторная 5
