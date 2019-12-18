@@ -1,0 +1,39 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class Entity as "Потоки"
+
+class inf as "Внутренний"
+class inf2 as "Внешний"
+
+class type as "Текст"
+class type2 as "Диаграмма"
+class type3 as "Электронный ресурс"
+
+
+class EN1 as "Бумажный ресурс"
+class EN2 as "Модель данных"
+class EX1 as "Электронный ресурс внедренный в обучение"
+class EX2 as "Структура ЭР"
+
+
+Entity <|-- inf 
+Entity <|-- inf2
+
+inf <|-- type3
+inf <|-- type2
+inf2 <|-- type
+
+type <|-- EN1 
+type2 <|-- EN2 
+type3 <|-- EX1 
+type3 <|-- EX2 
+
+
+hide members
+hide circle
+hide methods
+@enduml
