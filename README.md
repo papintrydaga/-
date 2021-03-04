@@ -1,4 +1,5 @@
 # papintrydaga.github.io
+# Тут ссылка на курсовой проект
 # Отчет а лабораторных работах
 # студент группы [ИДБ-16-06](https://github.com/stankin/design-2018/wiki/list-idb-16-06) Агапов Д.О.
 
@@ -50,12 +51,4 @@ DFD
 Диаграмма классов(ERD)
 
 ![none](https://github.com/papintrydaga/papintrydaga.github.io/blob/master/Снимок%20экрана%202019-11-06%20в%2014.29.21.png)
-
-## Лабораторная 4
-
-## Лабораторная 5
-
-## Лабораторная 6
-
-## Лабораторная 7
 
